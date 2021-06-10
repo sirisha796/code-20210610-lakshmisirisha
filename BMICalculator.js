@@ -60,7 +60,7 @@ if (jsonfilename.length>0){
     
     });
     if(overweightcounter>0){
-        console.log("\n\nNo of Overweight People:"+overweightcounter);
+        console.log("\n\n\nNo of Overweight People:"+overweightcounter);
     }
     });
 }
