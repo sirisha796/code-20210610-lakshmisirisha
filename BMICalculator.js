@@ -7,6 +7,7 @@
 const prompt=require('prompt-sync')({signint:true});
 const jsonfilename=prompt("enter bmi filename::");
 
+
 if (jsonfilename.length>0){
     //Reading the json file
     const fs=require("fs");
